@@ -1,4 +1,4 @@
-Hand Written Digit Recognition using Convolutional Neural Network
+# Hand Written Digit Recognition using Convolutional Neural Network
 
 
 ## Overview
